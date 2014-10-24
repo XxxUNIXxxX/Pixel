@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-class MO(object):
+class My(object):
 
     def __init__(self, user):
         self.user = user
@@ -36,4 +36,4 @@ class MO(object):
         print "123\n"
 
 
-MO("customer").so().send()
+My("customer").so().send()
