@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-=======
->>>>>>> 35f4561ac99ee07294ffc657df38cfd151f93e6f
+
 class MO(object):
 
     def __init__(self, user):
