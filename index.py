@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 class MO(object):
 
     def __init__(self, user):
