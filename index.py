@@ -1,7 +1,4 @@
-#master
-#100
-# master super
-#101v
+# -*- coding: utf-8 -*-
 
 class MO(object):
 
