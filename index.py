@@ -35,5 +35,7 @@ class My(object):
     def fun2(self):
         print "123\n"
 
+    def fun3(self):
+	print  "Function number 3"
 
 My("customer").so().send()
