@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
-class My(object):
+class Pyxel(object):
 
     def __init__(self, user):
         self.user = user
