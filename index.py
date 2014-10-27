@@ -18,7 +18,7 @@ class Pyxel(object):
 
         return wrapper
 
-    @test(param="Paramm")
+    @test(param="VAR")
     def send(word = "Hello"):
         print word
 
