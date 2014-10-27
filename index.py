@@ -8,7 +8,7 @@ class Pyxel(object):
 
     def test(param):
         def wrapper(fn):
-            print "1", param
+            print "First", param
 
             def runner(self, *args, **kwargs):
                 print param
