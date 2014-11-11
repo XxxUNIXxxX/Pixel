@@ -40,6 +40,3 @@ class Pyxel(object):
 
 My("customer").so().send()
 
-#
-# New branch
-#
