@@ -40,3 +40,6 @@ class Pyxel(object):
 
 My("customer").so().send()
 
+
+
+Hello
